@@ -1,0 +1,15 @@
+#header {
+  background-image: url("https://dev.io-academy.uk/resources/iplookup/pattern-bg.png");
+  background-repeat: no-repeat;
+  height: 400px;
+  text-align: center;
+  background-size: cover;
+  color: #ffffff; }
+
+#mapid {
+  height: 1000px; }
+
+
+
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlcyI6WyJzdHlsZS5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIiNoZWFkZXIge1xuICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCJodHRwczovL2Rldi5pby1hY2FkZW15LnVrL3Jlc291cmNlcy9pcGxvb2t1cC9wYXR0ZXJuLWJnLnBuZ1wiKTtcbiAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcbiAgaGVpZ2h0OiA1MDBweDtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICBjb2xvcjogI2ZmZmZmZjtcbn1cblxuI21hcGlkIHtcbiAgaGVpZ2h0OiAxMDAwcHg7XG59Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLEFBQUEsT0FBTyxDQUFDO0VBQ04sZ0JBQWdCLEVBQUUsa0VBQWtFO0VBQ3BGLGlCQUFpQixFQUFFLFNBQVM7RUFDNUIsTUFBTSxFQUFFLEtBQUs7RUFDYixVQUFVLEVBQUUsTUFBTTtFQUNsQixlQUFlLEVBQUUsS0FBSztFQUN0QixLQUFLLEVBQUUsT0FBTyxHQUNmOztBQUVELEFBQUEsTUFBTSxDQUFDO0VBQ0wsTUFBTSxFQUFFLE1BQU0sR0FDZiJ9 */

@@ -1,0 +1,27 @@
+#header {
+  background-image: url("https://dev.io-academy.uk/resources/iplookup/pattern-bg.png");
+  background-repeat: no-repeat;
+  height: 500px;
+  text-align: center;
+  background-size: cover;
+  color: #ffffff;
+}
+
+#mapid {
+  height: 1000px;
+}
+
+
+@mixin paddingAndMargin($margin, $padding) {
+  -webkit-border-radius: $radius;
+  padding: $padding;
+  margin: $margin;
+}
+
+input {
+  @include paddingAndMargin(0, 0)
+}
+
+button {
+  @include paddingAndMargin(0, 0)
+}
